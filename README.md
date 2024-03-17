@@ -3,6 +3,9 @@
 To be able to use it you need to use the mounting frame from the snap-in blind (https://www.se.com/se/sv/product/WDE002325/centrumplatta-exxact-blindlock-sn%C3%A4ppfasts%C3%A4ttning-inkl-pl%C3%A5tst%C3%B6dram-oh%C3%A5lad-vit/).
 
 I have had some issues with the tab strenth when printing it laying flat up-side down (PETG). Best results so far: 100% infill, supports and no cooling.
+![image](https://github.com/boppen79/label-case/assets/18470418/c0f9a115-07a2-41b0-b9e8-be11e44a0074)
+![image](https://github.com/boppen79/label-case/assets/18470418/2d83bab2-9d72-463a-a810-31a71645c358)
+
 
 ## Solum M2 2.9
 Files for CNC carving a holder for the Solum M2 2.9" tag. I recommend using 14mm thick wood.

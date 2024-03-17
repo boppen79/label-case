@@ -6,3 +6,5 @@ I have had some issues with the tab strenth when printing it laying flat up-side
 
 ## Solum M2 2.9
 Files for CNC carving a holder for the Solum M2 2.9" tag. I recommend using 14mm thick wood.
+![image](https://github.com/boppen79/label-case/assets/18470418/7ac70392-2782-4679-a0ba-1f00511a1e04)
+

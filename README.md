@@ -3,9 +3,9 @@
 To be able to use it you need to use the mounting frame from the snap-in blind (https://www.se.com/se/sv/product/WDE002325/centrumplatta-exxact-blindlock-sn%C3%A4ppfasts%C3%A4ttning-inkl-pl%C3%A5tst%C3%B6dram-oh%C3%A5lad-vit/).
 
 I have had some issues with the tab strenth when printing it laying flat up-side down (PETG). Best results so far: 100% infill, supports and no cooling.
-![solum_3d](https://github.com/boppen79/label-case/assets/18470418/f93d7582-1a60-4869-a683-f91b65b441f9){: width="50%"}
+<img src="https://github.com/boppen79/label-case/assets/18470418/f93d7582-1a60-4869-a683-f91b65b441f9" width="50%" height="50%">
 
-![image](https://github.com/boppen79/label-case/assets/18470418/2d83bab2-9d72-463a-a810-31a71645c358){: width="50%"}
+![image](https://github.com/boppen79/label-case/assets/18470418/2d83bab2-9d72-463a-a810-31a71645c358)
 
 
 ## Solum M2 2.9
